@@ -1,3 +1,4 @@
 ﻿# Diabetes Project
 
-## Machine Learning course @ BFCAI
+## Machine Learning course 2024 @ BFCAI
+
